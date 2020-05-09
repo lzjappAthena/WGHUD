@@ -1,4 +1,5 @@
 # WGHUD
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/git/WGHUD.svg?style=flat)](https://travis-ci.org/git/WGHUD)
 [![Version](https://img.shields.io/cocoapods/v/WGHUD.svg?style=flat)](https://cocoapods.org/pods/WGHUD)
@@ -27,3 +28,6 @@ git, 798956212@qq.com
 ## License
 
 WGHUD is available under the MIT license. See the LICENSE file for more info.
+=======
+提示HUD
+>>>>>>> 8277b96e3691f3dd2dffc961eb4c277cd8c99ccf
