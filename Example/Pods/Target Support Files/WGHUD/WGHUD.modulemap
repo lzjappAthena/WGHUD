@@ -1,0 +1,6 @@
+framework module WGHUD {
+  umbrella header "WGHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}

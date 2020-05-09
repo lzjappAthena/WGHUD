@@ -8,6 +8,8 @@
 
 #import "WGViewController.h"
 
+#import "WGHUD.h"
+
 @interface WGViewController ()
 
 @end
@@ -18,12 +20,19 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+   
 }
 
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+}
+
+- (IBAction)testBtnClick:(id)sender {
+    
+    WGTest *test = [[WGTest alloc] init];
+    [test testName];
 }
 
 @end

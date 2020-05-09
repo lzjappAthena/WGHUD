@@ -1,0 +1,22 @@
+{
+  "name": "WGHUD",
+  "version": "0.1.0",
+  "summary": "A short description of WGHUD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/git/WGHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "git": "798956212@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/git/WGHUD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WGHUD/Classes/**/*"
+}
